@@ -3,9 +3,12 @@
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ![Last updated](https://img.shields.io/badge/last%20updated-May%202026-informational)
-![Weekly update](https://github.com/vrsabha/outbreak-tracker/actions/workflows/update.yml/badge.svg)
+[![Weekly update](https://github.com/vrsabha/outbreak-tracker/actions/workflows/update.yml/badge.svg)](https://github.com/vrsabha/outbreak-tracker/actions/workflows/update.yml)
 
 `outbreak-tracker` is an open-source public health data pipeline that collects outbreak records from WHO Disease Outbreak News, CDC Ebola history, and ECDC rapid risk assessments; reconciles conflicting counts; calculates case fatality rates with confidence intervals; and publishes clean CSV outputs plus a self-contained Chart.js dashboard. It is designed for data engineers, researchers, journalists, and public health analysts who need transparent, reproducible outbreak data rather than a black-box spreadsheet.
+
+<img width="956" height="326" alt="image" src="https://github.com/user-attachments/assets/11ef2778-c842-44ef-b5ab-2f6c82be898a" />
+
 
 ## Architecture
 
