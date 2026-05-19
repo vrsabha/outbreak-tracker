@@ -27,7 +27,7 @@ flowchart LR
 ## Quickstart
 
 ```bash
-git clone https://github.com/your-org/outbreak-tracker.git
+git clone https://github.com/vrsabha/outbreak-tracker.git
 cd outbreak-tracker
 pip install -r requirements.txt && python main.py
 ```
