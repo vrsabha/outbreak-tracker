@@ -112,6 +112,9 @@ If you use this dataset in research, journalism, or analysis, cite it as:
 
 > outbreak-tracker contributors. `outbreak-tracker`: an open-source public health outbreak data pipeline. Version by access date. Available at: https://github.com/vrsabha/outbreak-tracker
 
-## License
-
-This project is released under the MIT License. See `LICENSE` for details.
+This project is licensed under the Business Source 
+Licence 1.1. Non-commercial use is free. For 
+commercial licensing including data feeds, API 
+access, and managed deployments, contact 
+[your email]. The licence converts to MIT on 
+1 January 2030.
