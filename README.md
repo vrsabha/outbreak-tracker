@@ -1,7 +1,7 @@
 # outbreak-tracker
 
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue)
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
+[![License: BUSL-1.1](https://img.shields.io/badge/license-BUSL--1.1-orange)]
 ![Last updated](https://img.shields.io/badge/last%20updated-May%202026-informational)
 [![Weekly update](https://github.com/vrsabha/outbreak-tracker/actions/workflows/update.yml/badge.svg)](https://github.com/vrsabha/outbreak-tracker/actions/workflows/update.yml)
 
